@@ -1,0 +1,6 @@
+{"level":"error","message":"One or both values you entered are not valid numbers","service":"calculate-service"}
+{"level":"info","message":"Operation add with parameters 300 and 1234 resulted in 1534","service":"calculate-service"}
+{"level":"info","message":"Operation subtract with parameters 2344 and 455 resulted in 1889","service":"calculate-service"}
+{"level":"info","message":"Operation multiply with parameters 43 and 24 resulted in 1032","service":"calculate-service"}
+{"level":"info","message":"Operation divide with parameters 13431 and 34 resulted in 395.02941176470586","service":"calculate-service"}
+{"level":"error","message":"Division by zero is not allowed","service":"calculate-service"}
